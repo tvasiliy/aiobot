@@ -6,4 +6,4 @@ With the help of this robot, you can just in a few seconds, leave to yourself a 
 
 You will never forget the minor or important things that you plan to do for a week.
 
-@@FastAudioNote_Bot
+@FastAudioNote_Bot
